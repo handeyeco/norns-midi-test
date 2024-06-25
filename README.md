@@ -8,6 +8,8 @@ I'm using an "Arturia KeyStep 32", but I imagine any USB MIDI controller would w
 
 ## Steps to repro:
 
+The original question state is tagged `question`: [here](https://github.com/handeyeco/norns-midi-test/blob/question/midi-test.lua)
+
 1. Go to `SYSTEM > DEVICES > MIDI`
 2. Set all slots to `none`
 3. Load the `midi-test.lua` script
